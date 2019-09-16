@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.transferwise.reporter.ExtentReporter"/>
+  </listeners>
+  <test thread-count="5" name="IETest(failed)">
+    <parameter name="browser" value="IE"/>
+    <classes>
+      <class name="com.transferwise.tests.ConverterPageTest">
+        <methods>
+          <include name="endOfExecution"/>
+          <include name="doCleanUpStuff"/>
+          <include name="validateConverterTest" invocation-numbers="0"/>
+          <include name="strtup"/>
+        </methods>
+      </class> <!-- com.transferwise.tests.ConverterPageTest -->
+    </classes>
+  </test> <!-- IETest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

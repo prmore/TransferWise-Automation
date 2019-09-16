@@ -1,0 +1,4 @@
+com\transferwise\base\TestBase.class
+com\transferwise\reporter\ExtentReporter.class
+com\transferwise\pages\ConverterPage.class
+com\transferwise\util\TestUtil.class

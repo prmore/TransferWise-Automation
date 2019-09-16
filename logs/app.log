@@ -1,0 +1,102 @@
+2019-09-09 09:16:33,086  INFO [main] rootCategory:49 - **********************Launched Chrome
+2019-09-09 09:16:34,570 DEBUG [main] rootCategory:66 - Navigating to URL: https://transferwise.com/ie/currencyconverter/
+2019-09-09 09:16:43,137 DEBUG [main] rootCategory:58 - Initializing PageFactory elements for ConverterPage
+2019-09-09 09:16:43,452  INFO [main] rootCategory:30 - ************Performing converter page title verification************
+2019-09-09 09:16:43,620  INFO [main] rootCategory:33 - CONVERETER PAGE TITLE VERIFICATION IS SUCCESSFUL!!!
+2019-09-09 09:16:43,628  INFO [main] rootCategory:21 - Reading data from input excel file...
+2019-09-09 09:16:46,311  INFO [main] rootCategory:54 - Read data from input excel is completed
+2019-09-09 09:16:46,314  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 1************
+2019-09-09 09:16:46,315 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:16:47,962 DEBUG [main] rootCategory:94 - Set amount to convert to: 500
+2019-09-09 09:16:49,739 DEBUG [main] rootCategory:103 - Select transfer type as: Easy transfer
+2019-09-09 09:16:53,505 DEBUG [main] rootCategory:83 - Set target currency to: INR
+2019-09-09 09:16:57,727  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 1 IS SUCCESSFUL!!!
+2019-09-09 09:16:57,728  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 2************
+2019-09-09 09:16:57,729 DEBUG [main] rootCategory:72 - Set source currency to: GBP
+2019-09-09 09:16:58,541 DEBUG [main] rootCategory:94 - Set amount to convert to: 1000.5
+2019-09-09 09:16:59,863 DEBUG [main] rootCategory:103 - Select transfer type as: Low cost transfer
+2019-09-09 09:17:03,610 DEBUG [main] rootCategory:83 - Set target currency to: EUR
+2019-09-09 09:17:08,157  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 2 IS SUCCESSFUL!!!
+2019-09-09 09:17:08,158  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 3************
+2019-09-09 09:17:08,159 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:17:08,968 DEBUG [main] rootCategory:94 - Set amount to convert to: 700
+2019-09-09 09:17:09,556 DEBUG [main] rootCategory:103 - Select transfer type as: Fast transfer
+2019-09-09 09:17:13,056 DEBUG [main] rootCategory:83 - Set target currency to: USD
+2019-09-09 09:17:17,005  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 3 IS SUCCESSFUL!!!
+2019-09-09 09:17:17,006  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 4************
+2019-09-09 09:17:17,007 DEBUG [main] rootCategory:72 - Set source currency to: GBP
+2019-09-09 09:17:17,907 DEBUG [main] rootCategory:94 - Set amount to convert to: 600.6
+2019-09-09 09:17:19,174 DEBUG [main] rootCategory:103 - Select transfer type as: Low cost transfer
+2019-09-09 09:17:22,542 DEBUG [main] rootCategory:83 - Set target currency to: AUD
+2019-09-09 09:17:26,305  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 4 IS SUCCESSFUL!!!
+2019-09-09 09:17:26,306  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 5************
+2019-09-09 09:17:26,308 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:17:26,974 DEBUG [main] rootCategory:94 - Set amount to convert to: 1500
+2019-09-09 09:17:27,563 DEBUG [main] rootCategory:103 - Select transfer type as: Fast transfer
+2019-09-09 09:17:31,263 DEBUG [main] rootCategory:83 - Set target currency to: GBP
+2019-09-09 09:17:35,148  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 5 IS SUCCESSFUL!!!
+2019-09-09 09:17:51,268  INFO [main] rootCategory:53 - **********************Launched FireFox
+2019-09-09 09:17:51,590 DEBUG [main] rootCategory:66 - Navigating to URL: https://transferwise.com/ie/currencyconverter/
+2019-09-09 09:18:05,459 DEBUG [main] rootCategory:58 - Initializing PageFactory elements for ConverterPage
+2019-09-09 09:18:05,462  INFO [main] rootCategory:30 - ************Performing converter page title verification************
+2019-09-09 09:18:05,467  INFO [main] rootCategory:33 - CONVERETER PAGE TITLE VERIFICATION IS SUCCESSFUL!!!
+2019-09-09 09:18:05,468  INFO [main] rootCategory:21 - Reading data from input excel file...
+2019-09-09 09:18:05,553  INFO [main] rootCategory:54 - Read data from input excel is completed
+2019-09-09 09:18:05,554  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 6************
+2019-09-09 09:18:05,555 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:18:06,694 DEBUG [main] rootCategory:94 - Set amount to convert to: 500
+2019-09-09 09:18:07,570 DEBUG [main] rootCategory:103 - Select transfer type as: Easy transfer
+2019-09-09 09:18:11,133 DEBUG [main] rootCategory:83 - Set target currency to: INR
+2019-09-09 09:18:14,803  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 6 IS SUCCESSFUL!!!
+2019-09-09 09:18:14,804  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 7************
+2019-09-09 09:18:14,804 DEBUG [main] rootCategory:72 - Set source currency to: GBP
+2019-09-09 09:18:15,315 DEBUG [main] rootCategory:94 - Set amount to convert to: 1000.5
+2019-09-09 09:18:15,816 DEBUG [main] rootCategory:103 - Select transfer type as: Low cost transfer
+2019-09-09 09:18:19,368 DEBUG [main] rootCategory:83 - Set target currency to: EUR
+2019-09-09 09:18:22,958  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 7 IS SUCCESSFUL!!!
+2019-09-09 09:18:22,959  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 8************
+2019-09-09 09:18:22,959 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:18:23,466 DEBUG [main] rootCategory:94 - Set amount to convert to: 700
+2019-09-09 09:18:23,923 DEBUG [main] rootCategory:103 - Select transfer type as: Fast transfer
+2019-09-09 09:18:27,720 DEBUG [main] rootCategory:83 - Set target currency to: USD
+2019-09-09 09:18:31,383  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 8 IS SUCCESSFUL!!!
+2019-09-09 09:18:31,384  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 9************
+2019-09-09 09:18:31,384 DEBUG [main] rootCategory:72 - Set source currency to: GBP
+2019-09-09 09:18:31,922 DEBUG [main] rootCategory:94 - Set amount to convert to: 600.6
+2019-09-09 09:18:32,394 DEBUG [main] rootCategory:103 - Select transfer type as: Low cost transfer
+2019-09-09 09:18:36,096 DEBUG [main] rootCategory:83 - Set target currency to: AUD
+2019-09-09 09:18:39,790  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 9 IS SUCCESSFUL!!!
+2019-09-09 09:18:39,791  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 10************
+2019-09-09 09:18:39,791 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:18:40,469 DEBUG [main] rootCategory:94 - Set amount to convert to: 1500
+2019-09-09 09:18:40,914 DEBUG [main] rootCategory:103 - Select transfer type as: Fast transfer
+2019-09-09 09:18:44,814 DEBUG [main] rootCategory:83 - Set target currency to: GBP
+2019-09-09 09:18:48,361  INFO [main] rootCategory:69 - CONVERETER VERIFICATION FOR TEST 10 IS SUCCESSFUL!!!
+2019-09-09 09:19:00,152  INFO [main] rootCategory:57 - **********************Launched IE
+2019-09-09 09:19:00,244 DEBUG [main] rootCategory:66 - Navigating to URL: https://transferwise.com/ie/currencyconverter/
+2019-09-09 09:19:06,859 DEBUG [main] rootCategory:58 - Initializing PageFactory elements for ConverterPage
+2019-09-09 09:19:06,861  INFO [main] rootCategory:30 - ************Performing converter page title verification************
+2019-09-09 09:19:06,895  INFO [main] rootCategory:33 - CONVERETER PAGE TITLE VERIFICATION IS SUCCESSFUL!!!
+2019-09-09 09:19:06,896  INFO [main] rootCategory:21 - Reading data from input excel file...
+2019-09-09 09:19:06,963  INFO [main] rootCategory:54 - Read data from input excel is completed
+2019-09-09 09:19:06,963  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 11************
+2019-09-09 09:19:06,964 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:19:38,858  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 12************
+2019-09-09 09:19:38,859 DEBUG [main] rootCategory:72 - Set source currency to: GBP
+2019-09-09 09:20:09,763  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 13************
+2019-09-09 09:20:09,763 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:20:40,806  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 14************
+2019-09-09 09:20:40,806 DEBUG [main] rootCategory:72 - Set source currency to: GBP
+2019-09-09 09:21:12,051  INFO [main] rootCategory:40 - ************Performing converter data verification for Test 15************
+2019-09-09 09:21:12,061 DEBUG [main] rootCategory:72 - Set source currency to: EUR
+2019-09-09 09:21:47,245  INFO [main] rootCategory:80 - ************!!!END OF RESULTS!!!************
+2019-09-09 09:21:47,790 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-09 09:21:47,796 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-09 09:21:47,799 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-09 09:21:47,801 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-09 09:21:47,801 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prmore/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-09 09:21:48,299 DEBUG [main] cache:44 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-09 09:21:48,300 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-09 09:21:48,300 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-09 09:21:48,301 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-09 09:21:48,301 DEBUG [main] cache:44 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/prmore/.m2/repository/com/relevantcodes/extentreports/2.41.1/extentreports-2.41.1.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
